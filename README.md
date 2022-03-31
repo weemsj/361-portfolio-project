@@ -1,1 +1,1 @@
-This repository will include my cs361 portfolio project.
+This repository will include my CS361 portfolio project.
